@@ -15,10 +15,6 @@ div.board {
     border-left: 10px solid var(--board-bg);
 }
 
-.wins {
-    text-align: center;
-}
-
 span.container {
     width: 4em;
     height: 4em;
