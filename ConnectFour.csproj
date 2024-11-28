@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Components\Board.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="Components\Board.razor.css" />
   </ItemGroup>
 
